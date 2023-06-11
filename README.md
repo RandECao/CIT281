@@ -56,7 +56,7 @@ CIT281 Projects and Labs
 - Gain experience working with the concept of a gaming loop
 - Further develop skills in working with objects and arrays
 
-[Link for more information on the project](https://randecao.github.io/cit281-p4/)
+[Link for more information on the project](https://randecao.github.io/cit281-p5/)
 
 ### Project 6
 - Develop familiarity with accessing and utilizing the command line interface (CLI) of your operating system
