@@ -13,12 +13,14 @@ CIT281 Projects and Labs
 - Gain proficiency in working with CLI commands
 - Acquire hands-on experience with Visual Studio Code (VSCode)
 - Learn to write and execute JavaScript code in Node.js outside of a web server context
+
 [Link for more information on the project](https://randecao.github.io/CIT281_p1/) 
 
 ### Project 2
 - Acquire practical skills in using git through the CLI and Visual Studio Code (VSCode) Source Control
 - Develop proficiency in writing and executing Node.js JavaScript code that does not run on a web server
 - Practice the process of refactoring JavaScript code for improved efficiency and readability
+
 [Link for more information on the project](https://randecao.github.io/CIT281_p2/)
 
 ### Project 3
@@ -29,6 +31,7 @@ CIT281 Projects and Labs
 - Gain hands-on experience in writing and executing Node.js web server code using Fastify in VSCode
 - Learn to use the GET verb, routes, and query parameters in Fastify
 - Acquire skills in loading a file and using it as a web page
+
 [Link for more information on the project](https://randecao.github.io/CIT281_p3/)
 
 ### Project 4
@@ -40,6 +43,7 @@ CIT281 Projects and Labs
 - Gain familiarity with working with static data and testing code modules without a web server
 - Learn to use Postman for testing web server routes
 - Acquire experience in working with JSON data
+
 [Link for more information on the project](https://randecao.github.io/CIT281_p4/)
 
 ### Project 5
@@ -50,6 +54,7 @@ CIT281 Projects and Labs
 - Practice using Array map() and forEach() methods
 - Gain experience working with the concept of a gaming loop
 - Further develop skills in working with objects and arrays
+
 [Link for more information on the project](https://randecao.github.io/CIT281_p5/)
 
 ### Project 6
@@ -57,55 +62,66 @@ CIT281 Projects and Labs
 - Gain proficiency in using CLI commands
 - Acquire experience in working with Visual Studio Code (VSCode)
 - Learn to write and execute JavaScript code in Node.js outside of a web server context
+
 [Link for more information on the project](https://randecao.github.io/CIT281_p6/)
 
 ### Project 7
 - Further enhance your skills in working with GitHub repositories
 - Gain experience in utilizing GitHub Pages
 - Create an initial portfolio for your labs and projects related to the CIT Minor
+
 [Link for more information on the project](https://randecao.github.io/CIT281_p7/)
 
 # Labs
 ### Lab 1
 - Software installation and computer setup guidelines
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab1/)
 
 ### Lab 2
 - Understanding the fundamentals of CLI commands
 - Using the CLI for git commands
 - Gain experience with git repositories, gitignore, and cloning repositories
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab2/)
 
 ### Lab 3
 - Practice refactoring JavaScript code to utilize more modern syntax
 - Learn to destructure an object
 - Create a Node.js compatible code module using module.exports
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab3/)
 
 ### Lab 4
 - Set up a Fastify web server for Node.js
 - Gain experience with Node.js and Node Package Manager (NPM)
 - Understand and troubleshoot MIME errors while refactoring code
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab4/)
 
 ### Lab 5
 - Understanding the creation of query collections, server routes, and requests in the Postman application
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab5/)
 
 ### Lab 6
 - Practice using GitHub and collaborating on shared code repositories
 - Gain understanding of class functionality
 - Create and test classes
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab6/)
 
 ### Lab 7
 - Establish a GitHub organization for the CIT Minor
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab7/)
 
 ### Lab 8
 - Software installation and computer setup guidelines
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab8/)
 
 ### Lab 9
 - Create a Learning Lab course/repository within your GitHub account
+
 [Link for more information on the lab](https://randecao.github.io/CIT281_lab9/)
