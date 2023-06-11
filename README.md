@@ -3,6 +3,9 @@ Randy Cao
 
 CIT281 Projects and Labs
 
+![zero-take-KKsT0bEe5Ck-unsplash](https://github.com/RandECao/CIT281/assets/133427268/63a67f86-94c3-4ed7-a0f9-d7183e4de67e)
+
+
 # Projects
 
 ### Project 1
